@@ -1,0 +1,16 @@
+.Header {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+
+}
+ul {
+    background: #38ac1b;
+    padding: 20px;
+}
+ul li {
+    background: #5ec76c;
+    color: rgb(29, 100, 39);
+    margin: 5px;
+}
